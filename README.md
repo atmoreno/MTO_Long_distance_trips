@@ -1,14 +1,14 @@
 # long-distance-trips
 
-Part of the MTO project to evaluate long distance trips (more than 40 km) travel pattern in the Ontario province. 
+The objective of this part of the MTO project is to describe the long distance travel behavior on the Ontario province. The possible choices of the behavior are: at home, long distance daytrip, long distance inbound travel and long distance away. There are 3 main trip purposes: leisure, visit and business.
 
 The data are from the TSRC for the Ontario province, years 2011 to 2013.
 
-The codes in R should be executed in this order:
+The order to run the files are:
 
-1. mlogit_summer_v1.R. This code calculates the probability of being at home, traveling, away or on a daytrip. Each trip purpose (leisure, visit, business) is modelled separately. For each trip purpose, five different models are proposed based on how the variable SEASON is coded.
-2. mlogit_gender.R. This code calculates the probability of being at home, traveling, away or on a daytrip for the business purpose. The difference on the models is how the variable GENDER is coded (0,1; -1,1; Male, Female; -1,1).
-3. 
+1- mlogit_summer_v1.R Commands in R to estimate the probability of choosing one of the options, depending on the trip purpose. The difference on the models for each trip purpose is how the variable "SEASON" is coded.
+
+2- mlogit_gender.R Commands in R to estimate the difference on the probability of choosing one of the options, depending on the trip purpose depending on how the variable "GENDER" is coded.
 
 One sample of the database is provided (only four individuals).
 
