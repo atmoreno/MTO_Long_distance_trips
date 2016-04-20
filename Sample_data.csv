@@ -1,0 +1,17 @@
+id,Young,Retired,Female,adultsInHousehold,kidsInHousehold,HighSchool,PostSecondary,University,Employed,income2,income3,income4,Season,expansionFactor,Choice
+90178912,0,0,0,2,2,0,1,0,1,0,0,1,summer,59842.401,AtHomeBusiness
+90178912,0,0,0,2,2,0,1,0,1,0,0,1,summer,0,OnInOutboundTravelBusiness
+90178912,0,0,0,2,2,0,1,0,1,0,0,1,summer,0,OnDaytripsBusiness
+90178912,0,0,0,2,2,0,1,0,1,0,0,1,summer,0,AwayBusiness
+60818313,0,0,0,2,3,0,0,0,1,0,0,1,summer,122525.934,AtHomeBusiness
+60818313,0,0,0,2,3,0,0,0,1,0,0,1,summer,0,OnInOutboundTravelBusiness
+60818313,0,0,0,2,3,0,0,0,1,0,0,1,summer,0,OnDaytripsBusiness
+60818313,0,0,0,2,3,0,0,0,1,0,0,1,summer,0,AwayBusiness
+71304313,0,1,1,3,1,0,0,0,0,0,0,1,summer,67054.5965,AtHomeBusiness
+71304313,0,1,1,3,1,0,0,0,0,0,0,1,summer,0,OnInOutboundTravelBusiness
+71304313,0,1,1,3,1,0,0,0,0,0,0,1,summer,0,OnDaytripsBusiness
+71304313,0,1,1,3,1,0,0,0,0,0,0,1,summer,0,AwayBusiness
+90178911,0,0,0,2,0,1,0,0,1,1,0,0,summer,41140.073,AtHomeBusiness
+90178911,0,0,0,2,0,1,0,0,1,1,0,0,summer,6329.242,OnInOutboundTravelBusiness
+90178911,0,0,0,2,0,1,0,0,1,1,0,0,summer,0,OnDaytripsBusiness
+90178911,0,0,0,2,0,1,0,0,1,1,0,0,summer,0,AwayBusiness
