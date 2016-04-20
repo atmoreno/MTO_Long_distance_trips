@@ -1,6 +1,6 @@
 # long-distance-trips
 
-Part of the STR project to evaluate long distance trips (more than 40 km) travel pattern in the Ontario province. 
+Part of the MTO project to evaluate long distance trips (more than 40 km) travel pattern in the Ontario province. 
 
 The data are from the TSRC for the Ontario province, years 2011 to 2013.
 
